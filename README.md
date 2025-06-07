@@ -16,7 +16,7 @@
 
 ---
 
-<h3 align="center">🚀 Tecnologias </h3>
+<h3 align="center"> Tecnologias </h3>
 
 <div align="center">
   <img 
