@@ -1,16 +1,23 @@
-## Hi there 👋
+## ✨ Duda Fontes 
 
-<!--
-**DudaFontes14/DudaFontes14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC. Aqui compartilho meus aprendizados e projetos acadêmicos!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🚀 Tecnologias </h3>
+
+<div align="center">
+  <img 
+    alt="GitHub Stats"
+    height="200" 
+    width="500"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudaFontes14&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</div>
+<br/>
+<br/>
+
+
+
+
+
