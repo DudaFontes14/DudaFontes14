@@ -1,6 +1,18 @@
-## ✨ Duda Fontes 
+<h1 align="center">✨ Duda Fontes </h1>
 
-Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC. Aqui compartilho meus aprendizados e projetos acadêmicos!
+<p align="center">
+  <strong>
+    Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC.<br/>
+    Aqui compartilho meus aprendizados, projetos acadêmicos e experiências práticas na programação!<br/>
+    No meu LinkedIn, posto mais detalhes sobre o desenvolvimento de cada projeto:
+  </strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/DudaFontes/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
